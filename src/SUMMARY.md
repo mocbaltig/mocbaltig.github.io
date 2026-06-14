@@ -1,10 +1,9 @@
 # Summary
 
-[Landing](./landing.md)
+[Me](./me.md)
 
 ---
 
 # Portofolio
 
 - [Capstone AI Learning Planner](./capstone_ai_learning_planner.md)
-- [Chapter 1](./chapter_1.md)
