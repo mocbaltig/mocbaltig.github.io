@@ -1,0 +1,5 @@
+[book]
+authors = ["mocbaltig"]
+language = "en"
+src = "src"
+title = "My Site"
